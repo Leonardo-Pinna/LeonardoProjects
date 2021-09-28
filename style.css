@@ -1,0 +1,66 @@
+/* Container e body */
+.container{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  border-style: hidden;
+  border: 140px 140px;
+  border-radius: 140px;
+  background: rgba(92,71,39, 0.8);
+}
+
+body{
+background-image:url('sfondo.jpg');
+background-size: cover;
+}
+
+.logo{
+  width: 170px;
+  margin-left: 400px;
+  margin-top: 65px;
+}
+
+h2{
+  color: #00DD00;
+  margin-left: 350px;
+}
+/* Navs */
+.button-nav{
+  width: 630px;
+  height: 30px;
+  background-color: #00DD00;
+  padding-left: 370px;
+  padding-top: 10px;
+}
+
+/* Le sezioni */
+#text1{
+  background-color: orange;
+  width: 260px;
+  border-radius: 3px;
+  border-style: hidden;
+}
+
+#text2{
+  background-color: green;
+  width: 460px;
+  border-radius: 3px;
+  border-style: hidden;
+}
+
+#text3{
+  background-color: red;
+  width: 120px;
+  border-radius: 3px;
+  border-style: hidden;
+}
+
+span{
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+section{
+padding-left: 50px;
+}
